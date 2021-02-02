@@ -1,4 +1,4 @@
-### Learning_Notes  
+### Learning_Notes  - Currently Work in progress
 
 #### The procedure of “general to specific modeling”
 Steps | Details
